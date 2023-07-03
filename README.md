@@ -1,5 +1,5 @@
 <p align="center">
-<img src=  https://imgur.com/j4MVOKz alt="osTicket logo"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="" https://ibb.co/ZHX51dG" alt="Disk Sanitization Steps"/>
+<img src= "https://imgur.com/j4MVOKz.png " alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
