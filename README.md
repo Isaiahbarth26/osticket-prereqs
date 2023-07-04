@@ -17,11 +17,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable Internet Information Sercives(IIS)
-- Install Web Platform Installer
-- Item 3
-- Install C++
-- Configure permission and Install OS ticket
+-Create Virtual Machine <br>
+-login in through Remote Desktop <br>
+-enable IIS through Remote desktop Connection
 
 <h2>Installation Steps</h2>
 
@@ -34,17 +32,32 @@ THE VIRTUAL MAHCINE THROUGH MICROSOFT AZURE HAS BEEN CREATED SUCCESSFULLY, NOW T
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://imgur.com/BTcCqXF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+LOGGING INTO REMOTE DESKTOP, TO ACCESS THE VIRTUAL MACHINE.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://imgur.com/h7Th0wB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+WE HAVE SUCCESSFULLY GOT INTO THE VIRTUAL MACHINE THERE A FEW, FILES AND PERMISSION, THAT NEED TO BE ENABLED IN THE PROGRAM SYSTEM(IIS,ETC). 
+  I CANT SHOW ALL OF IT, ITS QUITE TIDIOUS.
 </p>
 <br />
+
+<img src= "https://imgur.com/VT5plbn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src= "https://imgur.com/fZONBMY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<p>
+  **IIS has been successfully installed, it is what allows the virtual machine to connect to internet 
+  services to use osTicket thats the main reason why actually follow out with this process.**
+</p>
+
+<p>
+  These are basically all the auxiliary files, programs,softwares you need before running Osticket on your pc.
+</p>
