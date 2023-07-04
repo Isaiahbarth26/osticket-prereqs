@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src= "https://imgur.com/j4MVOKz.png " alt="Disk Sanitization Steps"/>
+<img src= "https://imgur.com/j4MVOKz.png " alt=" Prerequisites and Installation Steps"/>
 </p>
 <p>
 THE VIRTUAL MAHCINE THROUGH MICROSOFT AZURE HAS BEEN CREATED SUCCESSFULLY, NOW TO MAKE OUR WAY INTO THE VM(VIRTUAL MACHINE).
@@ -32,7 +32,7 @@ THE VIRTUAL MAHCINE THROUGH MICROSOFT AZURE HAS BEEN CREATED SUCCESSFULLY, NOW T
 <br />
 
 <p>
-<img src= "https://imgur.com/BTcCqXF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://imgur.com/BTcCqXF.png" height="80%" width="80%" alt=" Prerequisites and Installation Steps"/>
 </p>
 <p>
 LOGGING INTO REMOTE DESKTOP, TO ACCESS THE VIRTUAL MACHINE.
@@ -40,7 +40,7 @@ LOGGING INTO REMOTE DESKTOP, TO ACCESS THE VIRTUAL MACHINE.
 <br />
 
 <p>
-<img src=https://imgur.com/h7Th0wB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://imgur.com/h7Th0wB.png" height="80%" width="80%" alt=" Prerequisites and Installation steps"/>
 </p>
 <p>
 WE HAVE SUCCESSFULLY GOT INTO THE VIRTUAL MACHINE THERE A FEW, FILES AND PERMISSION, THAT NEED TO BE ENABLED IN THE PROGRAM SYSTEM(IIS,ETC). 
@@ -48,16 +48,21 @@ WE HAVE SUCCESSFULLY GOT INTO THE VIRTUAL MACHINE THERE A FEW, FILES AND PERMISS
 </p>
 <br />
 
-<img src= "https://imgur.com/VT5plbn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://imgur.com/VT5plbn.png" height="80%" width="80%" alt=" Prerequisites and Installation Steps"/>
 
-<img src= "https://imgur.com/fZONBMY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://imgur.com/fZONBMY.png" height="80%" width="80%" alt=" Prerequisites and Installation Steps"/>
 
 
 <p>
-  **IIS has been successfully installed, it is what allows the virtual machine to connect to internet 
-  services to use osTicket thats the main reason why actually follow out with this process.**
+ IIS(INTERNET INFORMATION SERVICES) HAS BEEN SUCCESSFULLY INSTALLED,IT'S WHAT ALLOWS THE VIRTUAL MACHINE TO CONNECT TO THE INTERNET SERVICES TO USE OSTICKET, THATS THE MAIN REASON WHY WE ACTUALLY FOLLOW OUT WITH THIS PROCESS. 
 </p>
 
 <p>
-  These are basically all the auxiliary files, programs,softwares you need before running Osticket on your pc.
+THESE ARE BASICALLY ALL THE AUXILARY FILES, PROGRAMS, SOFTWARE YOU NEED BEFORE RUNNING OSTICKET ON YOUR PC.
+</p> 
+ <img src= "https://imgur.com/h8m7MQQ.png" height="80%" width="80%" alt=" Prerequisites and Installation Steps"/>
+
+<p>
+  THE OSTICKET SOFTWARE HAS BEEN SUCCESFULLY INSTALLED THROUGH THE FOLLOWING ENVIORMENTS THAT WERE LISTED ABOVE. 
+  IT WAS QUICK WALK THROUGH JUST GIVE YOU A GLIMPS OF WHAT HAPPENED. THANK YOU!
 </p>
